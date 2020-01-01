@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aqours.life</id>
     <title>Lu Shuyuの小屋</title>
-    <updated>2020-01-01T01:39:44.750Z</updated>
+    <updated>2020-01-01T09:16:55.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aqours.life"/>
     <link rel="self" href="https://blog.aqours.life/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://blog.aqours.life/images/avatar.png</logo>
     <icon>https://blog.aqours.life/favicon.ico</icon>
     <rights>All rights reserved 2020, Lu Shuyuの小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[《我们无法一起学习！》完结感言]]></title>
+        <id>https://blog.aqours.life/lesslesswo-men-wu-fa-yi-qi-xue-xi-greatergreater-wan-jie-gan-yan</id>
+        <link href="https://blog.aqours.life/lesslesswo-men-wu-fa-yi-qi-xue-xi-greatergreater-wan-jie-gan-yan">
+        </link>
+        <updated>2020-01-01T09:08:54.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="动画烂尾">动画烂尾</h2>
+<p>在放烟花那里结束，退出，投币，五星。<br>
+在机场那里结束，退出，短评???，二星。</p>
+<p>我不知道制作组与原作者有什么故事，可强加结局这一操作真滴恶心。</p>
+<p>本来还想把《学不来》安利给小伙伴的补番列表，现在还是算了吧。</p>
+<p>9.6 -&gt; 6.3 学不来学不来</p>
+<figure data-type="image" tabindex="1"><img src="https://blog.aqours.life/post-images/1577870080213.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://blog.aqours.life/hello-gridea</id>
