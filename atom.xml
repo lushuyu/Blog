@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aqours.life</id>
     <title>Lu Shuyuの小屋</title>
-    <updated>2020-01-01T09:16:55.313Z</updated>
+    <updated>2020-01-02T04:59:37.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aqours.life"/>
     <link rel="self" href="https://blog.aqours.life/atom.xml"/>
@@ -11,9 +11,21 @@
     <icon>https://blog.aqours.life/favicon.ico</icon>
     <rights>All rights reserved 2020, Lu Shuyuの小屋</rights>
     <entry>
+        <title type="html"><![CDATA[Aqours! Sunshine!! —— 洛谷冬日绘板]]></title>
+        <id>https://blog.aqours.life/luogu-paintboard-2020</id>
+        <link href="https://blog.aqours.life/luogu-paintboard-2020">
+        </link>
+        <updated>2020-01-02T04:50:46.000Z</updated>
+        <content type="html"><![CDATA[<p>可怜的Lu Shuyu并没有学会如何使用脚本画上Aqours的图像，但是Lu Shuyu的好朋友<a href="https://www.luogu.com.cn/user/108757#activity">No268435</a>绘制了一个Aqours和露比酱。</p>
+<p>露比赛高！！！</p>
+<figure data-type="image" tabindex="1"><img src="https://blog.aqours.life/post-images/1577940849071.png" alt="" loading="lazy"></figure>
+<p>尽管没有放上自己的图片，但是可爱的Lu Shuyu并没有放弃，他打算明年再来。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《我们无法一起学习！》完结感言]]></title>
-        <id>https://blog.aqours.life/lesslesswo-men-wu-fa-yi-qi-xue-xi-greatergreater-wan-jie-gan-yan</id>
-        <link href="https://blog.aqours.life/lesslesswo-men-wu-fa-yi-qi-xue-xi-greatergreater-wan-jie-gan-yan">
+        <id>https://blog.aqours.life/我们真的学不来-完结感言</id>
+        <link href="https://blog.aqours.life/我们真的学不来-完结感言">
         </link>
         <updated>2020-01-01T09:08:54.000Z</updated>
         <content type="html"><![CDATA[<h2 id="动画烂尾">动画烂尾</h2>
