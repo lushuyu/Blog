@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aqours.life</id>
     <title>Lu Shuyuの小屋</title>
-    <updated>2020-01-02T05:30:43.689Z</updated>
+    <updated>2020-01-04T07:51:51.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aqours.life"/>
     <link rel="self" href="https://blog.aqours.life/atom.xml"/>
@@ -10,6 +10,58 @@
     <logo>https://blog.aqours.life/images/avatar.png</logo>
     <icon>https://blog.aqours.life/favicon.ico</icon>
     <rights>All rights reserved 2020, Lu Shuyuの小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[【科普】首个国产 HPV 疫苗获批上市]]></title>
+        <id>https://blog.aqours.life/ke-pu-shou-ge-guo-chan-hpv-yi-miao-huo-pi-shang-shi</id>
+        <link href="https://blog.aqours.life/ke-pu-shou-ge-guo-chan-hpv-yi-miao-huo-pi-shang-shi">
+        </link>
+        <updated>2020-01-04T04:51:13.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>作者：青莲长歌<br>
+链接：https://www.zhihu.com/question/364411856/answer/961183590<br>
+来源：知乎<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+</blockquote>
+<h2 id="这个疫苗是什么有什么用">这个疫苗是什么？有什么用？</h2>
+<p>HPV疫苗又称为宫颈癌疫苗。因为宫颈癌大部分（＞95%）由HPV感染导致。因此，通过注射疫苗来产生抗体，进一步防止HPV感染，可以有效防止HPV感染引起的宫颈癌。这也是目前最为主流的、受到充分论证的消灭宫颈癌的主要方法。</p>
+<h2 id="这个2价4价9价是什么意思">这个2价4价9价是什么意思？</h2>
+<p>HPV病毒目前已知的有约200种亚型。但导致宫颈癌的主要为其中的14种。而这14种病毒亚型中，16/18两种感染引起的宫颈癌占了80%以上。疫苗的价数指的是这支疫苗能够预防的病毒亚型数量。2价就是两种（16/18），4价和9价分别就是4种和9种。理论上而言，价数越高，可以预防的病毒亚型越多，对于宫颈癌的保护性越好。</p>
+<h2 id="现在都有9价了2价太落后了没有价值">现在都有9价了，2价太落后了没有价值。</h2>
+<p>如上一点所说，2价已经可以预防80%以上的HPV导致的宫颈癌了，因此实现的是“雪中送炭”。而后续的往上叠加的，都属于锦上添花，实质性的提升并不大。尤其对于中国人群而言，2价疫苗甚至可以覆盖90%的宫颈癌风险。</p>
+<h2 id="我们自己的疫苗技术都不行么">我们自己的疫苗技术都不行么？</h2>
+<p>这支疫苗由厦门大学国家传染病诊断试剂与疫苗工程技术中心研发，由养生堂旗下的万泰生物承接产业化。这个疫苗项目在02年立项，20年上市，中间18年的研发工作，凝聚了数代研究生的心血。</p>
+<p>疫苗的核心技术由实验室自主研发，目前在国际上处于领先地位。有多领先呢？同样是这个研发及生产组合，另一个产品是全球首支戊肝疫苗“益可宁”。而同样是这个实验室，目前掌握了全球唯一新一代HPV疫苗的核心生产工艺，这个项目现在和GSK正在进行合作研发。</p>
+<h2 id="这是一个什么样的实验室">这是一个什么样的实验室？</h2>
+<p>24小时实验室都有人在做实验，标准工作时长13小时/天，一周6天。所有节假日几乎全部没有。实验室主任，项目主持人，厦门大学公共卫生学院院长，夏宁邵教授经常说的一句话就是，做我们这一行的，还是要有情怀的。</p>
+<p>虽然挺头秃的，但实验室氛围和成果还是挺让人开心的。</p>
+<h2 id="安全性如何">安全性如何？</h2>
+<p>光临床实验就做了十年。</p>
+<h2 id="这支苗主要的服务对象是谁">这支苗主要的服务对象是谁？</h2>
+<p>如果不介意接种+路费花个上万，不介意排队或者黄牛加价，那去港澳台地区或者其他国家打9价苗是个目前很好的选择。</p>
+<p>但是我国还有数亿的中低收入妇女，你让她们花上万打一个疫苗这显然是不可能。因此，国产2价的主要服务人群就是这些妇女同胞。研发领头人之一曾经在一个讲座上说过，我们的目标就是服务我们国家大部分的妇女同胞，而不是让它只能成为少数人的专享。</p>
+<h2 id="我是男生我能打么">我是男生我能打么？</h2>
+<p>男生打了也是对伴侣的一种保护，有这个想法的男生都是珍宝，小姐姐们快关注。</p>
+<p>以前的话因为价格高、产量低，所以不可能给男生打。以后我们自己的苗出来了，产量会非常大，因此在未来男生也可以打，没有问题，但是还需要在男性群体中补做临床试验并证明有效。</p>
+<h2 id="这个是仿制的还是完全自主研究的">这个是仿制的还是完全自主研究的？</h2>
+<p>完完全全自主研究的。</p>
+<h2 id="副作用大么">副作用大么？</h2>
+<p>打针还是挺疼的…</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[置顶]时不时会写的日记　o(*￣▽￣*)o]]></title>
+        <id>https://blog.aqours.life/shi-bu-shi-hui-xie-de-ri-ji-o-v-o</id>
+        <link href="https://blog.aqours.life/shi-bu-shi-hui-xie-de-ri-ji-o-v-o">
+        </link>
+        <updated>2020-01-04T04:32:41.000Z</updated>
+        <content type="html"><![CDATA[<p>2020/1/4</p>
+<p>准备以后用Gridea写博客辣，QQ空间考虑停用，应该会把一些内容搬过来吧qaq。</p>
+<p>给 Digimzzo 的 PR 被 Close 了...<br>
+明明是我先来的，改语言文件也好，PR也好...怎么会变成这样呢？（（（<br>
+<img src="https://cyaron.oss-cn-hangzhou.aliyuncs.com/img/20200104152743.png" alt="" loading="lazy"></p>
+<p>准备好了阿里云OSS，防盗链也搞好了（不过谁会闲得无聊盗我图呢？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aqours! Sunshine!! —— 洛谷冬日绘板]]></title>
         <id>https://blog.aqours.life/luogu-paintboard-2020</id>
