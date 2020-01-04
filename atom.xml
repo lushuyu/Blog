@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aqours.life</id>
     <title>Lu Shuyuの小屋</title>
-    <updated>2020-01-04T07:51:51.667Z</updated>
+    <updated>2020-01-04T10:20:27.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aqours.life"/>
     <link rel="self" href="https://blog.aqours.life/atom.xml"/>
@@ -54,8 +54,12 @@
         <link href="https://blog.aqours.life/shi-bu-shi-hui-xie-de-ri-ji-o-v-o">
         </link>
         <updated>2020-01-04T04:32:41.000Z</updated>
-        <content type="html"><![CDATA[<p>2020/1/4</p>
+        <content type="html"><![CDATA[<p>2020/1/2</p>
+<p>人生百味，最喜欢的还是老妈的蛋皮。<br>
+<img src="https://cyaron.oss-cn-hangzhou.aliyuncs.com/img/20200104181727.png" alt="" loading="lazy"><img src="https://cyaron.oss-cn-hangzhou.aliyuncs.com/img/20200104181817.png" alt="" loading="lazy"><img src="https://cyaron.oss-cn-hangzhou.aliyuncs.com/img/20200104181846.png" alt="" loading="lazy"><img src="https://cyaron.oss-cn-hangzhou.aliyuncs.com/img/20200104181903.png" alt="" loading="lazy"></p>
+<p>2020/1/4</p>
 <p>准备以后用Gridea写博客辣，QQ空间考虑停用，应该会把一些内容搬过来吧qaq。</p>
+<p>开始写博客辣，👴的青春回来了！（（（</p>
 <p>给 Digimzzo 的 PR 被 Close 了...<br>
 明明是我先来的，改语言文件也好，PR也好...怎么会变成这样呢？（（（<br>
 <img src="https://cyaron.oss-cn-hangzhou.aliyuncs.com/img/20200104152743.png" alt="" loading="lazy"></p>
