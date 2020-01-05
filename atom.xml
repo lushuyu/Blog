@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aqours.life</id>
     <title>Lu Shuyuの小屋</title>
-    <updated>2020-01-04T15:38:57.191Z</updated>
+    <updated>2020-01-05T07:21:46.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aqours.life"/>
     <link rel="self" href="https://blog.aqours.life/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://blog.aqours.life/images/avatar.png</logo>
     <icon>https://blog.aqours.life/favicon.ico</icon>
     <rights>All rights reserved 2020, Lu Shuyuの小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[青梅败犬，你能秒我？]]></title>
+        <id>https://blog.aqours.life/qing-mei-bai-quan-ni-neng-miao-wo</id>
+        <link href="https://blog.aqours.life/qing-mei-bai-quan-ni-neng-miao-wo">
+        </link>
+        <updated>2020-01-05T05:29:45.000Z</updated>
+        <content type="html"><![CDATA[<p>av81183921</p>
+<iframe src="//player.bilibili.com/player.html?aid=81183921&cid=138936232&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 738px;height: 530px; padding: 0px;"> </iframe>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[置顶] Points for Chemestry]]></title>
         <id>https://blog.aqours.life/zhi-ding-points-for-chemestry</id>
