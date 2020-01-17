@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aqours.life</id>
     <title>Lu Shuyuの小屋</title>
-    <updated>2020-01-07T04:53:41.655Z</updated>
+    <updated>2020-01-17T05:28:12.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aqours.life"/>
     <link rel="self" href="https://blog.aqours.life/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://blog.aqours.life/images/avatar.png</logo>
     <icon>https://blog.aqours.life/favicon.ico</icon>
     <rights>All rights reserved 2020, Lu Shuyuの小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[Win10资源管理器频繁重启可能原因及解决方案]]></title>
+        <id>https://blog.aqours.life/win10-zi-yuan-guan-li-qi-pin-fan-chong-qi-ke-neng-yuan-yin-ji-jie-jue-fang-an</id>
+        <link href="https://blog.aqours.life/win10-zi-yuan-guan-li-qi-pin-fan-chong-qi-ke-neng-yuan-yin-ji-jie-jue-fang-an">
+        </link>
+        <updated>2020-01-12T04:54:16.000Z</updated>
+        <content type="html"><![CDATA[<p>最近导出了一个PDF，然后Explorer.exe不断重启。<br>
+看日志结果发现是文点通出了问题...<br>
+删了删了~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学题 #1]]></title>
         <id>https://blog.aqours.life/shu-xue-ti-1</id>
